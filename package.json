@@ -1,0 +1,9 @@
+{
+  "name": "kit",
+  "version": "0.0.1",
+  "description": "Throw it together fast.",
+  "main": "bin/kit-cli.js",
+  "repository": "https://github.com/esmevane/kit",
+  "author": "Joseph McCormick <esmevane@gmail.com>",
+  "license": "MIT"
+}
